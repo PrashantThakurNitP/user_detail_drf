@@ -1,5 +1,6 @@
 # user_detail_drf
 Api URl
+
 http://details.pythonanywhere.com/api/create_detail
 
 This API was developed using Django Restframework
