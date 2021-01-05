@@ -25,3 +25,5 @@ Scripts\activate.bat   #activate virtual environment
 install dependency in virtual environment by below command
 
 pip install -r requirements.txt  #install dependency
+
+create .env file and store your email, email password ,security key in it and add .env file in .gitignore
